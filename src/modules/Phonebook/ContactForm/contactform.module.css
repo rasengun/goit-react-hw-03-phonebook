@@ -1,0 +1,18 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  width: 200px;
+}
+
+.input {
+  width: 160px;
+}
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border-radius: 15px;
+  border: 1px solid;
+  background-color: pink;
+}
